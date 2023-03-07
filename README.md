@@ -3,7 +3,8 @@ Welcome to this place of *nowhere*.
 
 current update 3/6/2023
 ________
-three projects uploaded from my original gitee account
+three past projects uploaded from my original *gitee* account
+created in Summer 2022
 - [TicTacToe](https://github.com/Ting2004/TicTacToe)
 - [SompleWebServer](https://github.com/Ting2004/SimpleWebServer)
 - [OracleSQLClient](https://github.com/Ting2004/OracleSQLClient)
