@@ -1,8 +1,15 @@
 Good morning, good afternoon and good night, my dear visitor.
 Welcome to this place of *nowhere*.
 
-~~I plan to move my past projects to github some time later, well, later...~~
-~~hopefully done by April 2023~~
+current update 3/6/2023
+________
+three projects uploaded from my original gitee account
+- [TicTacToe](https://github.com/Ting2004/TicTacToe)
+- [SompleWebServer](https://github.com/Ting2004/SimpleWebServer)
+- [OracleSQLClient](https://github.com/Ting2004/OracleSQLClient)
+
+they possibly may not run, uploaded just for documentation purpose
+
 
 <!---
 Ting2004/Ting2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
