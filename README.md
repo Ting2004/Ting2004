@@ -1,4 +1,4 @@
-Good morning, good afternoon and good night, my dear visitor.
+Good morning, good afternoon and good night.
 Welcome to this place of *nowhere*.
 
 latest update 3/6/2023
